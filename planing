@@ -7,3 +7,6 @@
 #1. decision tree
 #2. xgboost
 #3. gbm
+
+# analysis customers CLV 
+https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/CLV_Online_Retail.ipynb
