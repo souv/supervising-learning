@@ -1,0 +1,9 @@
+#predict number
+#1. polynomial linear regression
+#2. random forest
+#3. svr
+
+#predict category
+#1. decision tree
+#2. xgboost
+#3. gbm
