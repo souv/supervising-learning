@@ -9,9 +9,13 @@
 #3. gbm
 
 # analysis customers CLV 
+#1.python package lifetimes 
 https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/CLV_Online_Retail.ipynb
+
+#2.etsy how to do customer lifetime 
 http://cdn.oreillystatic.com/en/assets/1/event/85/Case%20Study_%20What_s%20a%20Customer%20Worth_%20Presentation.pdf
 
+#3.thesis about customer analysis
 https://benalexkeen.com/bg-nbd-model-for-customer-base-analysis-in-python/
 http://brucehardie.com/papers/018/fader_et_al_mksc_05.pdf
 https://dataorigami.net/blogs/napkin-folding/18868411-lifetimes-measuring-customer-lifetime-value-in-python#:~:text=Lifetimes%20is%20a%20Python%20library,you%20when%20they%20are%20alive.
